@@ -3,7 +3,8 @@
     1 # el softwere se crea  o modifica con intelecto ; no se manofactura en el sentido clasico
       # la creacion del softwere se enfoca en la  ingenieria  ,no puede administrase como si fuera  una manofactura 
     2 # el softwere no se desgasta 
-    3 # aunque la industria se mueva acia la contruccion basada en componentes , la  mayor parte  del softwere se contruye para        # para un uso  individualizado
+    3 # aunque la industria se mueva acia la contruccion basada en componentes , la  mayor parte  del softwere se contruye 
+      # para un uso  individualizado
     
     subtema 1 - modelo del proceso
     
