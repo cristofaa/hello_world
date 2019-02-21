@@ -1,0 +1,85 @@
+     EL PROCESO DEL SOFTWERE
+    . # el softwere es  un elemento de un sistema logico y no fisico esto ace que difiera del hardwere
+    1 # el softwere se crea  o modifica con intelecto ; no se manofactura en el sentido clasico
+      # la creacion del softwere se enfoca en la  ingenieria  ,no puede administrase como si fuera  una manofactura 
+    2 # el softwere no se desgasta 
+    3 # aunque la industria se mueva acia la contruccion basada en componentes , la  mayor parte  del softwere se contruye para        # para un uso  individualizado
+    
+    subtema 1 - modelo del proceso
+    
+    
+    subtema 2 - desarrollo agil
+    
+        MODELADO
+       
+    subtema 1  - principios que gian la practica
+    
+    subtema 2  - comprencion de los requerimientos 
+
+    subtema 3  - modelado de los requerimientos : escenarios  informacion y clases de analis 
+
+    subtema 4  - modelado de los requerimientos : flujo ,comportamiento ,patrones y webapps 
+
+    subtema 5  - conseptos de diseño 
+
+    subtema 6  - diseño de arquitectura 
+    
+    subtema 7  - diseño  en el nivel de componentes 
+    
+    subtema 8  - diseño de la interface de usuario 
+    
+    subtema 9  - deseño basado en patrones 
+    
+    subtema 10 - diseño de webapps 
+    
+        ADMINISTRACION DE CALIDAD 
+       
+    subtema 1  - consepto de calidad 
+    
+    subtema 2  - Tecnicas de revision
+    
+    subtema 3  -aseguramiento de lacalidad del softwere
+    
+    subtema 4 - estrategias de prueva de softwere 
+    
+    subtema 5  -prueva de aplicaciones convencionales 
+    
+    subtema 6  -prueba de aplicaciones orientadas a objetos 
+    
+    subtema 7  -prueva de aplicaciones  web
+    
+    subtema 8  -modelado y verificacion formal 
+    
+    subtema 9  -Administracion de la configuracion del softwere 
+        
+    subtema 10  - metricas de producto 
+    
+        ADMINISTRACION DE PROYECTOS DE SOFTWERE
+    
+    subtema 1  - consepto de administracion de proyectos 
+    
+    subtema 2  - metricas de procesos y proyectos 
+    
+    subtema 3  - estimacion para proyectos de softwere 
+    
+    subtema 4  - calendarizacion de proyectos
+    
+    subtema 5  - admintracion de riesgo
+    
+    subtema 6  - mantenimientos y reingenieria 
+    
+        TEMAS AVANZADOS 
+    subtema 1  - mejoramientos del proceso del softwere 
+    
+    subtema 2  - tendencias emergenetes en la ingenieria del softwere
+    
+    subtema 3  - comentarios finales 
+    
+    subtema 4  - introduccion a UML
+    
+    subtema 5  - conseptos orientados a objetos 
+    
+    
+    el trabajo empezo alas 3:20
+       
+      
