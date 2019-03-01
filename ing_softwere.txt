@@ -1,10 +1,20 @@
-     EL PROCESO DEL SOFTWERE
+                                   INGENIERIA DE SOFTWERE  UN ENFOQUE PRACTICO 
+                                   
     . # el softwere es  un elemento de un sistema logico y no fisico esto ace que difiera del hardwere
     1 # el softwere se crea  o modifica con intelecto ; no se manofactura en el sentido clasico
       # la creacion del softwere se enfoca en la  ingenieria  ,no puede administrase como si fuera  una manofactura 
     2 # el softwere no se desgasta 
     3 # aunque la industria se mueva acia la contruccion basada en componentes , la  mayor parte  del softwere se contruye 
       # para un uso  individualizado
+
+
+EL PROCESO DEL SOFTWERE
+
+    ¿que es el proceso de softwere?
+    ¿cuales son las actividades estructurales generales que estan presente en todo el proceso del softwere?
+    ¿como se modela los procesos y cuales son los patrones del procesos?
+    ¿cuales son los prescir?
+    
     
     subtema 1 - modelo del proceso
     
@@ -79,8 +89,6 @@
     subtema 4  - introduccion a UML
     
     subtema 5  - conseptos orientados a objetos 
-    
-    
-    el trabajo empezo alas 3:20
+   
        
       
